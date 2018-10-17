@@ -34,6 +34,7 @@ CAND_PARAMS=$*
 LOGS=c${CANDIDATE}.log
 
 # -- Now we can call the program by building a command line with all parameters for it
-java -d64 -Xmx10g -cp "../../target/*:../../target/lib/*" br.ufpr.inf.gres.irace.core.HookRun ${FIXED_PARAMS} ${CAND_PARAMS} > ${LOGS} 2>&1
+java -Xmx10g -cp "../../target/*:../../target/lib/*" br.ufpr.inf.gres.irace.core.HookRun ${FIXED_PARAMS} ${CAND_PARAMS} > ${LOGS} 2>&1
+#java -d64 -Xmx10g -cp "../../target/*:../../target/lib/*" br.ufpr.inf.gres.irace.core.HookRun ${FIXED_PARAMS} ${CAND_PARAMS} > ${LOGS} 2>&1
 
 exit $?

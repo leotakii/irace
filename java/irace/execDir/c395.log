@@ -1,0 +1,16 @@
+[HookRun] Parameters used:
+--directory=./
+--candidateId=395
+--algorithm=NSGA-II
+--populationSize=50
+--maxEvaluations=2000
+--selectionOperator=Random
+--tournamentSize=0
+--crossoverOperator=NullCrossover
+--crossoverProbability=0.0
+--mutationOperator=BitFlipMutation
+--mutationProbability=0.86
+
+Starting
+Started in 2018/10/11 14:26:08
+Finished in 2018/10/11 14:26:08

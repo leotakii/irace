@@ -1,0 +1,17 @@
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/core/HookRunCommands.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/enums/CrossoverOperatorType.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/core/HookEvaluateCommands.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/core/IHookRun.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/runner/BestCandidatesRunner.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/enums/SelectionOperatorType.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/enums/MutationOperatorType.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/core/IHookEvaluate.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/enums/AlgorithmType.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/measure/qualityindicator/HypervolumeCalculator.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/runner/BestCandidatesCommands.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/runner/IraceRunner.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/core/HookEvaluate.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/runner/ExperimentAlgorithmRunner.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/util/DirectoryUtils.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/core/HookRun.java
+/home/teste/Downloads/irace_takii/irace/java/src/main/java/br/ufpr/inf/gres/irace/evaluation/indicator/HypervolumeIndicator.java

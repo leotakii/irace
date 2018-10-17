@@ -1,0 +1,937 @@
+DEBUG:root:Namespace(cros=0.89, datfile='c51-4.dat', mut=0.03, pop=192, verbose=True)
+DEBUG:root:Start of evolution
+DEBUG:root:  Evaluated 192 individuals
+DEBUG:root:
+-- Generation 0 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 1 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 2 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 3 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 4 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 5 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 6 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 7 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 8 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 9 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 10 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 11 --
+DEBUG:root:  Evaluated 165 individuals
+DEBUG:root:
+-- Generation 12 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 13 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 14 --
+DEBUG:root:  Evaluated 182 individuals
+DEBUG:root:
+-- Generation 15 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 16 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 17 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 18 --
+DEBUG:root:  Evaluated 162 individuals
+DEBUG:root:
+-- Generation 19 --
+DEBUG:root:  Evaluated 167 individuals
+DEBUG:root:
+-- Generation 20 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 21 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 22 --
+DEBUG:root:  Evaluated 182 individuals
+DEBUG:root:
+-- Generation 23 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 24 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 25 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 26 --
+DEBUG:root:  Evaluated 179 individuals
+DEBUG:root:
+-- Generation 27 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 28 --
+DEBUG:root:  Evaluated 179 individuals
+DEBUG:root:
+-- Generation 29 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 30 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 31 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 32 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 33 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 34 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 35 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 36 --
+DEBUG:root:  Evaluated 163 individuals
+DEBUG:root:
+-- Generation 37 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 38 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 39 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 40 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 41 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 42 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 43 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 44 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 45 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 46 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 47 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 48 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 49 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 50 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 51 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 52 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 53 --
+DEBUG:root:  Evaluated 182 individuals
+DEBUG:root:
+-- Generation 54 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 55 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 56 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 57 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 58 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 59 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 60 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 61 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 62 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 63 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 64 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 65 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 66 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 67 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 68 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 69 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 70 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 71 --
+DEBUG:root:  Evaluated 160 individuals
+DEBUG:root:
+-- Generation 72 --
+DEBUG:root:  Evaluated 182 individuals
+DEBUG:root:
+-- Generation 73 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 74 --
+DEBUG:root:  Evaluated 165 individuals
+DEBUG:root:
+-- Generation 75 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 76 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 77 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 78 --
+DEBUG:root:  Evaluated 155 individuals
+DEBUG:root:
+-- Generation 79 --
+DEBUG:root:  Evaluated 167 individuals
+DEBUG:root:
+-- Generation 80 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 81 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 82 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 83 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 84 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 85 --
+DEBUG:root:  Evaluated 184 individuals
+DEBUG:root:
+-- Generation 86 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 87 --
+DEBUG:root:  Evaluated 181 individuals
+DEBUG:root:
+-- Generation 88 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 89 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 90 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 91 --
+DEBUG:root:  Evaluated 165 individuals
+DEBUG:root:
+-- Generation 92 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 93 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 94 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 95 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 96 --
+DEBUG:root:  Evaluated 160 individuals
+DEBUG:root:
+-- Generation 97 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 98 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 99 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 100 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 101 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 102 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 103 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 104 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 105 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 106 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 107 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 108 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 109 --
+DEBUG:root:  Evaluated 182 individuals
+DEBUG:root:
+-- Generation 110 --
+DEBUG:root:  Evaluated 181 individuals
+DEBUG:root:
+-- Generation 111 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 112 --
+DEBUG:root:  Evaluated 182 individuals
+DEBUG:root:
+-- Generation 113 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 114 --
+DEBUG:root:  Evaluated 163 individuals
+DEBUG:root:
+-- Generation 115 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 116 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 117 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 118 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 119 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 120 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 121 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 122 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 123 --
+DEBUG:root:  Evaluated 154 individuals
+DEBUG:root:
+-- Generation 124 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 125 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 126 --
+DEBUG:root:  Evaluated 163 individuals
+DEBUG:root:
+-- Generation 127 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 128 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 129 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 130 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 131 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 132 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 133 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 134 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 135 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 136 --
+DEBUG:root:  Evaluated 182 individuals
+DEBUG:root:
+-- Generation 137 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 138 --
+DEBUG:root:  Evaluated 167 individuals
+DEBUG:root:
+-- Generation 139 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 140 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 141 --
+DEBUG:root:  Evaluated 162 individuals
+DEBUG:root:
+-- Generation 142 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 143 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 144 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 145 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 146 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 147 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 148 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 149 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 150 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 151 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 152 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 153 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 154 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 155 --
+DEBUG:root:  Evaluated 162 individuals
+DEBUG:root:
+-- Generation 156 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 157 --
+DEBUG:root:  Evaluated 154 individuals
+DEBUG:root:
+-- Generation 158 --
+DEBUG:root:  Evaluated 165 individuals
+DEBUG:root:
+-- Generation 159 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 160 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 161 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 162 --
+DEBUG:root:  Evaluated 155 individuals
+DEBUG:root:
+-- Generation 163 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 164 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 165 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 166 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 167 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 168 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 169 --
+DEBUG:root:  Evaluated 179 individuals
+DEBUG:root:
+-- Generation 170 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 171 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 172 --
+DEBUG:root:  Evaluated 167 individuals
+DEBUG:root:
+-- Generation 173 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 174 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 175 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 176 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 177 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 178 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 179 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 180 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 181 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 182 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 183 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 184 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 185 --
+DEBUG:root:  Evaluated 163 individuals
+DEBUG:root:
+-- Generation 186 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 187 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 188 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 189 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 190 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 191 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 192 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 193 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 194 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 195 --
+DEBUG:root:  Evaluated 162 individuals
+DEBUG:root:
+-- Generation 196 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 197 --
+DEBUG:root:  Evaluated 163 individuals
+DEBUG:root:
+-- Generation 198 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 199 --
+DEBUG:root:  Evaluated 162 individuals
+DEBUG:root:
+-- Generation 200 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 201 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 202 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 203 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 204 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 205 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 206 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 207 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 208 --
+DEBUG:root:  Evaluated 189 individuals
+DEBUG:root:
+-- Generation 209 --
+DEBUG:root:  Evaluated 163 individuals
+DEBUG:root:
+-- Generation 210 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 211 --
+DEBUG:root:  Evaluated 161 individuals
+DEBUG:root:
+-- Generation 212 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 213 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 214 --
+DEBUG:root:  Evaluated 181 individuals
+DEBUG:root:
+-- Generation 215 --
+DEBUG:root:  Evaluated 160 individuals
+DEBUG:root:
+-- Generation 216 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 217 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 218 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 219 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 220 --
+DEBUG:root:  Evaluated 165 individuals
+DEBUG:root:
+-- Generation 221 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 222 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 223 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 224 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 225 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 226 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 227 --
+DEBUG:root:  Evaluated 167 individuals
+DEBUG:root:
+-- Generation 228 --
+DEBUG:root:  Evaluated 179 individuals
+DEBUG:root:
+-- Generation 229 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 230 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 231 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 232 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 233 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 234 --
+DEBUG:root:  Evaluated 162 individuals
+DEBUG:root:
+-- Generation 235 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 236 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 237 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 238 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 239 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 240 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 241 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 242 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 243 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 244 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 245 --
+DEBUG:root:  Evaluated 163 individuals
+DEBUG:root:
+-- Generation 246 --
+DEBUG:root:  Evaluated 179 individuals
+DEBUG:root:
+-- Generation 247 --
+DEBUG:root:  Evaluated 182 individuals
+DEBUG:root:
+-- Generation 248 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 249 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 250 --
+DEBUG:root:  Evaluated 167 individuals
+DEBUG:root:
+-- Generation 251 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 252 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 253 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 254 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 255 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 256 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 257 --
+DEBUG:root:  Evaluated 169 individuals
+DEBUG:root:
+-- Generation 258 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 259 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 260 --
+DEBUG:root:  Evaluated 177 individuals
+DEBUG:root:
+-- Generation 261 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 262 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 263 --
+DEBUG:root:  Evaluated 162 individuals
+DEBUG:root:
+-- Generation 264 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 265 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 266 --
+DEBUG:root:  Evaluated 178 individuals
+DEBUG:root:
+-- Generation 267 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 268 --
+DEBUG:root:  Evaluated 160 individuals
+DEBUG:root:
+-- Generation 269 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 270 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 271 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 272 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 273 --
+DEBUG:root:  Evaluated 164 individuals
+DEBUG:root:
+-- Generation 274 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 275 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 276 --
+DEBUG:root:  Evaluated 173 individuals
+DEBUG:root:
+-- Generation 277 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 278 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 279 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 280 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 281 --
+DEBUG:root:  Evaluated 168 individuals
+DEBUG:root:
+-- Generation 282 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 283 --
+DEBUG:root:  Evaluated 180 individuals
+DEBUG:root:
+-- Generation 284 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 285 --
+DEBUG:root:  Evaluated 172 individuals
+DEBUG:root:
+-- Generation 286 --
+DEBUG:root:  Evaluated 174 individuals
+DEBUG:root:
+-- Generation 287 --
+DEBUG:root:  Evaluated 167 individuals
+DEBUG:root:
+-- Generation 288 --
+DEBUG:root:  Evaluated 158 individuals
+DEBUG:root:
+-- Generation 289 --
+DEBUG:root:  Evaluated 176 individuals
+DEBUG:root:
+-- Generation 290 --
+DEBUG:root:  Evaluated 171 individuals
+DEBUG:root:
+-- Generation 291 --
+DEBUG:root:  Evaluated 170 individuals
+DEBUG:root:
+-- Generation 292 --
+DEBUG:root:  Evaluated 175 individuals
+DEBUG:root:
+-- Generation 293 --
+DEBUG:root:  Evaluated 166 individuals
+DEBUG:root:
+-- Generation 294 --
+Process ForkPoolWorker-2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.6/multiprocessing/pool.py", line 108, in worker
+    task = get()
+  File "/usr/lib/python3.6/multiprocessing/queues.py", line 334, in get
+    with self._rlock:
+  File "/usr/lib/python3.6/multiprocessing/synchronize.py", line 96, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process ForkPoolWorker-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.6/multiprocessing/pool.py", line 108, in worker
+    task = get()
+  File "/usr/lib/python3.6/multiprocessing/queues.py", line 335, in get
+    res = self._reader.recv_bytes()
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "../../main.py", line 229, in <module>
+    main(args.pop, args.cros, args.mut, args.datfile)
+  File "../../main.py", line 182, in main
+    for ind, fit in zip(invalid_ind, fitnesses):
+  File "../../main.py", line 75, in evalOneMax
+    predictions, probas, score = evaluate(individual, X_cv, y_cv)
+  File "../../main.py", line 69, in evaluate
+    return run_classifier(select_features(columns, X_train), select_features(columns, _x_test), _y_test)
+  File "../../main.py", line 45, in run_classifier
+    predictions = clf.predict(_X_test) 
+  File "/usr/lib/python3/dist-packages/sklearn/tree/tree.py", line 412, in predict
+    X = self._validate_X_predict(X, check_input)
+  File "/usr/lib/python3/dist-packages/sklearn/tree/tree.py", line 373, in _validate_X_predict
+    X = check_array(X, dtype=DTYPE, accept_sparse="csr")
+  File "/usr/lib/python3/dist-packages/sklearn/utils/validation.py", line 431, in check_array
+    force_all_finite)
+  File "/usr/lib/python3/dist-packages/sklearn/utils/validation.py", line 296, in _ensure_sparse_format
+    spmatrix = spmatrix.astype(dtype)
+  File "/usr/lib/python3/dist-packages/scipy/sparse/data.py", line 68, in astype

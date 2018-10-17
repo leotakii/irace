@@ -1,0 +1,137 @@
+DEBUG:root:Namespace(cros=0.46, datfile='c53-4.dat', mut=0.77, pop=272, verbose=True)
+DEBUG:root:Start of evolution
+DEBUG:root:  Evaluated 272 individuals
+DEBUG:root:
+-- Generation 0 --
+DEBUG:root:  Evaluated 236 individuals
+DEBUG:root:
+-- Generation 1 --
+DEBUG:root:  Evaluated 240 individuals
+DEBUG:root:
+-- Generation 2 --
+DEBUG:root:  Evaluated 235 individuals
+DEBUG:root:
+-- Generation 3 --
+DEBUG:root:  Evaluated 236 individuals
+DEBUG:root:
+-- Generation 4 --
+DEBUG:root:  Evaluated 239 individuals
+DEBUG:root:
+-- Generation 5 --
+DEBUG:root:  Evaluated 231 individuals
+DEBUG:root:
+-- Generation 6 --
+DEBUG:root:  Evaluated 243 individuals
+DEBUG:root:
+-- Generation 7 --
+DEBUG:root:  Evaluated 230 individuals
+DEBUG:root:
+-- Generation 8 --
+DEBUG:root:  Evaluated 235 individuals
+DEBUG:root:
+-- Generation 9 --
+DEBUG:root:  Evaluated 237 individuals
+DEBUG:root:
+-- Generation 10 --
+DEBUG:root:  Evaluated 240 individuals
+DEBUG:root:
+-- Generation 11 --
+DEBUG:root:  Evaluated 240 individuals
+DEBUG:root:
+-- Generation 12 --
+DEBUG:root:  Evaluated 240 individuals
+DEBUG:root:
+-- Generation 13 --
+DEBUG:root:  Evaluated 231 individuals
+DEBUG:root:
+-- Generation 14 --
+DEBUG:root:  Evaluated 242 individuals
+DEBUG:root:
+-- Generation 15 --
+DEBUG:root:  Evaluated 241 individuals
+DEBUG:root:
+-- Generation 16 --
+DEBUG:root:  Evaluated 231 individuals
+DEBUG:root:
+-- Generation 17 --
+DEBUG:root:  Evaluated 241 individuals
+DEBUG:root:
+-- Generation 18 --
+DEBUG:root:  Evaluated 244 individuals
+DEBUG:root:
+-- Generation 19 --
+DEBUG:root:  Evaluated 242 individuals
+DEBUG:root:
+-- Generation 20 --
+DEBUG:root:  Evaluated 241 individuals
+DEBUG:root:
+-- Generation 21 --
+DEBUG:root:  Evaluated 242 individuals
+DEBUG:root:
+-- Generation 22 --
+DEBUG:root:  Evaluated 244 individuals
+DEBUG:root:
+-- Generation 23 --
+DEBUG:root:  Evaluated 240 individuals
+DEBUG:root:
+-- Generation 24 --
+DEBUG:root:  Evaluated 239 individuals
+DEBUG:root:
+-- Generation 25 --
+DEBUG:root:  Evaluated 242 individuals
+DEBUG:root:
+-- Generation 26 --
+DEBUG:root:  Evaluated 229 individuals
+DEBUG:root:
+-- Generation 27 --
+DEBUG:root:  Evaluated 230 individuals
+DEBUG:root:
+-- Generation 28 --
+DEBUG:root:  Evaluated 232 individuals
+DEBUG:root:
+-- Generation 29 --
+DEBUG:root:  Evaluated 240 individuals
+DEBUG:root:
+-- Generation 30 --
+DEBUG:root:  Evaluated 234 individuals
+DEBUG:root:
+-- Generation 31 --
+DEBUG:root:  Evaluated 243 individuals
+DEBUG:root:
+-- Generation 32 --
+DEBUG:root:  Evaluated 235 individuals
+DEBUG:root:
+-- Generation 33 --
+DEBUG:root:  Evaluated 235 individuals
+DEBUG:root:
+-- Generation 34 --
+Process ForkPoolWorker-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.6/multiprocessing/pool.py", line 108, in worker
+    task = get()
+  File "/usr/lib/python3.6/multiprocessing/queues.py", line 334, in get
+    with self._rlock:
+  File "/usr/lib/python3.6/multiprocessing/synchronize.py", line 96, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process ForkPoolWorker-2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.6/multiprocessing/pool.py", line 108, in worker
+    task = get()
+  File "/usr/lib/python3.6/multiprocessing/queues.py", line 335, in get
+    res = self._reader.recv_bytes()
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 407, in _recv_bytes
+    buf = self._recv(4)
+  File "/usr/lib/python3.6/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
