@@ -141,7 +141,8 @@ def main(POP, CXPB, MUTPB, DATFILE):
     pop = toolbox.population(n=POP)
 
     ## Probabilities for Crossover, Mutation and number of generations (iterations)
-    NGEN = 300
+    #NGEN = 300
+    NGEN = 1
 
     logging.debug("Start of evolution")
 
@@ -161,7 +162,7 @@ def main(POP, CXPB, MUTPB, DATFILE):
 
         # Clone the selected individuals
         offspring = list(map(toolbox.clone, offspring))
-
+ 
         # Apply crossover and mutation on the offspring
         for child1, child2 in zip(offspring[::2], offspring[1::2]):
             if random.random() < CXPB:
